@@ -1,6 +1,12 @@
 # Disease-backend
 Disease App is an application which shows information about various diseases. This is a backend of this system.
 
+## Setup and run
+
+To setup the project locally read these wiki pages and follow the instructions:
+
+ - [Fork, Clone and Remote](https://github.com/Manik1094/Disease-backend/wiki/Fork,-Clone-and-Remote)
+
 ### Run app
 
 The project runs on Python 3.
